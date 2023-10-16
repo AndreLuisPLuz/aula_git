@@ -1,2 +1,3 @@
 # aula_git
-Repositório para aulas de git
+
+Repositório de exemplo para operações e boas práticas de git.
